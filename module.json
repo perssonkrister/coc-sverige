@@ -104,7 +104,7 @@
       {
          "name": "vansinnesepisoder",
          "label": "Vansinnesepisoder",
-         "path": "pacjs/vansinnesepisoder.db",
+         "path": "packs/vansinnesepisoder.db",
          "type": "RollTable",
          "system": "CoC7",
          "module": "coc-sverige"
