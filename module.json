@@ -12,40 +12,16 @@
          }
       }
    ],
-   "version":"1.0.3",
+   "version":"1.0.5",
    "compatibility":{
-      "minimum":"10",
-      "verified":"11.302"
+      "minimum":"11",
+      "verified":"11.305"
    },
    "packs":[
-      {
-         "name":"besvarjelser",
-         "label":"Besvärjelser",
-         "path":"packs/besvarjelser.db",
-         "type":"Item",
-         "system":"CoC7",
-         "module":"coc-sverige"
-      },
-      {
-         "name":"bocker",
-         "label":"Böcker",
-         "path":"packs/bocker.db",
-         "type":"Item",
-         "system":"CoC7",
-         "module":"coc-sverige"
-      },
       {
          "name":"camping-och-friluftsliv",
          "label":"Camping och friluftsliv",
          "path":"packs/camping-och-friluftsliv.db",
-         "type":"Item",
-         "system":"CoC7",
-         "module":"coc-sverige"
-      },
-      {
-         "name":"diverse",
-         "label":"Diverse",
-         "path":"packs/diverse.db",
          "type":"Item",
          "system":"CoC7",
          "module":"coc-sverige"
@@ -114,21 +90,29 @@
          "system":"CoC7",
          "module":"coc-sverige"
       },
-      {
-         "name":"start",
-         "label":"Start",
-         "path":"packs/start.db",
-         "type":"Item",
-         "system":"CoC7",
-         "module":"coc-sverige"
-      },
-      {
+           {
          "name":"yrken",
          "label":"Yrken",
          "path":"packs/yrken.db",
          "type":"Item",
          "system":"CoC7",
          "module":"coc-sverige"
-      }
+      },
+      {
+         "name": "vansinnesepisoder",
+         "label": "Vansinnesepisoder",
+         "path": "pacjs/vansinnesepisoder.db",
+         "type": "Rolltable",
+         "system": "CoC7",
+         "module": "coc-sverige"
+      },
+      {
+         "name":"exempel",
+         "label":"Exempel",
+         "path":"packs/exempel.db",
+         "type":"Item",
+         "system":"CoC7",
+         "module":"coc-sverige"
+ }
    ]
 }
