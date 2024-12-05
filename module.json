@@ -3,9 +3,9 @@
    "name":"coc-sverige",
    "title":"Call of Cthulhu Sverige",
    "description":"Kompendium med bl.a. färdigheter, yrken, vapen, bakgrunder och föremål. Endast för personligt bruk!",
-   "url":"https://github.com/Rangertheman/coc-sverige",
-   "manifest":"https://raw.githubusercontent.com/Rangertheman/coc-sverige/master/module.json",
-   "download":"https://github.com/Rangertheman/coc-sverige/archive/master.zip",
+   "url":"https://github.com/perssonkristerperssonkrister/coc-sverige",
+   "manifest":"https://raw.githubusercontent.com/perssonkrister/coc-sverige/master/module.json",
+   "download":"https://github.com/perssonkrister/coc-sverige/archive/master.zip",
    "authors":[
       {
          "name":"Krister Persson (Rangertheman)",
@@ -15,10 +15,10 @@
          }
       }
    ],
-   "version":"1.0.6",
+   "version":"1.0.7",
    "compatibility":{
-      "minimum":"11",
-      "verified":"11.305"
+      "minimum":"12",
+      "verified":"12.331"
    },
    "packs":[
       {
