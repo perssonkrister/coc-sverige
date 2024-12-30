@@ -1,0 +1,8 @@
+2024/12/29-21:48:16.070 9a30 Recovering log #47
+2024/12/29-21:48:16.072 9a30 Delete type=0 #47
+2024/12/29-21:48:16.072 9a30 Delete type=3 #45
+2024/12/29-22:20:58.077 2de8 Level-0 table #52: started
+2024/12/29-22:20:58.077 2de8 Level-0 table #52: 0 bytes OK
+2024/12/29-22:20:58.079 2de8 Delete type=0 #50
+2024/12/29-22:20:58.082 2de8 Manual compaction at level-0 from '!tables!MZRpPK4YZlI2WBP9' @ 72057594037927935 : 1 .. '!tables.results!MZRpPK4YZlI2WBP9.xZotPM1fELWnvhEm' @ 0 : 0; will stop at (end)
+2024/12/29-22:20:58.082 2de8 Manual compaction at level-1 from '!tables!MZRpPK4YZlI2WBP9' @ 72057594037927935 : 1 .. '!tables.results!MZRpPK4YZlI2WBP9.xZotPM1fELWnvhEm' @ 0 : 0; will stop at (end)

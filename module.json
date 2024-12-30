@@ -15,10 +15,22 @@
          }
       }
    ],
-   "version":"1.0.7",
+   "version":"1.0.8",
    "compatibility":{
       "minimum":"12",
       "verified":"12.331"
+   },
+   "relationships":{
+      "systems":[
+         {
+            "id":"CoC7",
+            "type":"system",
+            "compatibility":{
+               "minimum":"7.0",
+               "verified":"7.6"
+            }
+         }
+      ]
    },
    "packs":[
       {
