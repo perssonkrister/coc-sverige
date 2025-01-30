@@ -120,7 +120,7 @@
   "CoC7.Blind": "Blind",
   "CoC7.Label": "Etikett",
   "CoC7.Icon": "Ikon",
-  "CoC7.Check": "Kontrollera",
+  "CoC7.Check": "Välj",
   "CoC7.ItemWeapon": "Föremål (Weapon)",
   "CoC7.AttacksPerRound": "Anfall per runda",
 
@@ -1050,5 +1050,17 @@
   "CoC7.InvestigatorWizard.SkillSpendInterestPoints": "Personliga intressen {count} av {total}. Återstår {remaining}",
   "CoC7.InvestigatorWizard.SkillSpendArchetypePoints": "Arketyppoäng {count} av {total}. Återstår {remaining}",
   "CoC7.InvestigatorWizard.CreateInstructions": "Klicka här för att skapa din Utredare. Väktaren måste vara online för att Utredaren ska kunna skapas.",
-  "CoC7.InvestigatorWizard.CreatingInvestigator": "Vänligen vänta medan Väktaren skapar din Utredare."
+  "CoC7.InvestigatorWizard.CreatingInvestigator": "Vänligen vänta medan Väktaren skapar din Utredare.",
+
+  "CoC7.Temporary": "Temporär",
+  "CoC7.Passive": "Passiv",
+  "CoC7.Inactive": "Inaktiv",
+  "CoC7.Suppressed": "Undertryckt",
+  "CoC7.Unavailable": "Inte tillgänglig",
+  
+  "CoC7.Add": "Add",
+  "CoC7.Update": "Uppdatera",
+  "CoC7.Enable": "Aktivera",
+  "CoC7.Disable": "Inaktivera",
+  "CoC7.Duration": "Varaktighet"
 }
