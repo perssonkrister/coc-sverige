@@ -15,7 +15,7 @@
          }
       }
    ],
-   "version":"1.0.13",
+   "version":"1.1.0",
    "compatibility":{
       "minimum":"12",
       "verified":"12.331"
@@ -32,6 +32,27 @@
          }
       ]
    },
+   "packFolders": [
+     {
+       "name": "Call of Cthulhu Sverige",
+       "sorting": "a",
+       "color": "#a60d12",
+       "packs": [
+         "camping-och-friluftsliv",
+         "fardigheter",
+         "fordon",
+         "mat-och-dryck",
+         "mode",
+         "narstridsvapen",
+         "nojen-och-tidsfordriv",
+         "resor-och-boende",
+         "skjutvapen",
+         "yrken",
+         "vansinnesepisoder",
+         "exempel"
+       ]
+     }
+   ],
    "packs":[
       {
          "name":"camping-och-friluftsliv",
