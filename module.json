@@ -15,7 +15,7 @@
          }
       }
    ],
-   "version":"1.1.6",
+   "version":"1.2.0",
    "compatibility":{
       "minimum":"12",
       "verified":"12.331"
@@ -36,7 +36,7 @@
      {
        "name": "Call of Cthulhu Sverige",
        "sorting": "a",
-       "color": "#75844c",
+       "color": "#a60d12",
        "packs": [
          "camping-och-friluftsliv",
          "fardigheter",
