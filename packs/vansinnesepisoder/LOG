@@ -1,5 +1,5 @@
-2025/02/09-21:30:17.506 8994 Delete type=3 #1
-2025/02/09-21:30:22.472 b2ec Level-0 table #5: started
-2025/02/09-21:30:22.476 b2ec Level-0 table #5: 29346 bytes OK
-2025/02/09-21:30:22.477 b2ec Delete type=0 #3
-2025/02/09-21:30:22.478 b2ec Manual compaction at level-0 from '!tables!57SYQW9eS1ddYK3M' @ 72057594037927935 : 1 .. '!tables.results!aa1oUxjLkbXabCT8.xnjELtdklYz5G1R6' @ 0 : 0; will stop at (end)
+2025/02/09-21:40:17.543 e778 Delete type=3 #1
+2025/02/09-21:40:45.461 cdac Level-0 table #5: started
+2025/02/09-21:40:45.473 cdac Level-0 table #5: 41026 bytes OK
+2025/02/09-21:40:45.474 cdac Delete type=0 #3
+2025/02/09-21:40:45.476 cdac Manual compaction at level-0 from '!tables!57SYQW9eS1ddYK3M' @ 72057594037927935 : 1 .. '!tables.results!aa1oUxjLkbXabCT8.xnjELtdklYz5G1R6' @ 0 : 0; will stop at (end)
