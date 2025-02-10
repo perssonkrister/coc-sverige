@@ -440,7 +440,7 @@
   "CoC7.DriveSpecializationName": "Chaufför",
   "CoC7.PilotSpecializationName": "Framföra",
   "CoC7.LanguageSpecializationName": "Språk",
-  "CoC7.AnySpecName": "Valfri",
+  "CoC7.AnySpecName": "xValfri",
   "CoC7.BoutOfMadnessName": "Vansinnesepisod",
   "CoC7.InsanityName": "Galenskap",
 
@@ -855,7 +855,7 @@
   "CoC7.OccupationPoints": "Yrkespoäng",
   "CoC7.Selected": "Vald",
   "CoC7.Multiplier": "Multiplikator",
-  "CoC7.Optional": "xValfri",
+  "CoC7.Optional": "Valfri",
   "CoC7.Or": "eller",
   "CoC7.Minimum": "Minimum",
   "CoC7.Maximum": "Maximum",
