@@ -1019,7 +1019,7 @@
 
   "CoC7.Migrate.Title": "Uppdatering krävs",
   "CoC7.Migrate.Message": "<p>Din spelvärld kräver en uppdatering till version {version}.</p><p>Vänligen ta en backup på din World-mapp innan du fortsätter med uppgraderingen.</p><p>Om du inte uppdaterar din spelvärld kommer systemet inte att fungera korrekt.</p><p>Spelvärlden kan startas om efter uppgraderingen.</p>",
-  "CoC7.Migrate.WithModulesMessage": "<p>Din spelvärld kan behöva en uppdatering till version {version}.</p><p>Vänligen ta en backup på din World-mapp och Module-mapparna nedan innan du fortsätter med uppgraderingen.</p><p>Om du inte uppdaterar din spelvärld kommer systemet inte att fungera korrekt.</p><p>Följande moduler innehåller aktörer och föremål som också kommer att kontrolleras.</p>{modules}<p>TSpelvärlden kan startas om efter uppgraderingen.</p>",
+  "CoC7.Migrate.WithModulesMessage": "<p>Din spelvärld kan behöva en uppdatering till version {version}.</p><p>Vänligen ta en backup på din World-mapp och Module-mapparna nedan innan du fortsätter med uppgraderingen.</p><p>Om du inte uppdaterar din spelvärld kommer systemet inte att fungera korrekt.</p><p>Följande moduler innehåller aktörer och föremål som också kommer att kontrolleras.</p>{modules}<p>Spelvärlden kan startas om efter uppgraderingen.</p>",
   "CoC7.Migrate.GMRequired": "<p>Din spelvärld kräver en uppdatering till version {version}.</p><p>Vänta till Spelledaren har uppdaterat systemet och tryck sedan (F5) för att uppdatera sidan.</p>",
   "CoC7.Migrate.RestartRequired": "<p>Din spelvärld kommer nu att startas om för att ändringarna ska träda i kraft</p>",
   "CoC7.Migrate.ButtonUpdate": "Uppdatera",
