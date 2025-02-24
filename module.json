@@ -15,7 +15,7 @@
          }
       }
    ],
-   "version":"1.4.7",
+   "version":"1.4.8",
    "compatibility":{
       "minimum":"12",
       "verified":"12.331"
@@ -26,8 +26,8 @@
             "id":"CoC7",
             "type":"system",
             "compatibility":{
-               "minimum":"7.5",
-               "verified":"7.6"
+               "minimum":"7.6",
+               "verified":"7.10"
             }
          }
       ]
