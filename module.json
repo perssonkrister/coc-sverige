@@ -15,7 +15,7 @@
          }
       }
    ],
-   "version":"1.4.8",
+   "version":"1.4.9",
    "compatibility":{
       "minimum":"12",
       "verified":"12.331"
@@ -27,7 +27,7 @@
             "type":"system",
             "compatibility":{
                "minimum":"7.6",
-               "verified":"7.10"
+               "verified":"7.11"
             }
          }
       ]
