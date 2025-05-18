@@ -1,6 +1,5 @@
 {
    "id":"coc-sverige",
-   "name":"coc-sverige",
    "title":"Call of Cthulhu Sverige",
    "description":"Kompendium med bl.a. färdigheter, yrken, vapen, bakgrunder och föremål. Endast för personligt bruk!",
    "url":"https://github.com/perssonkristerperssonkrister/coc-sverige",
@@ -15,10 +14,10 @@
          }
       }
    ],
-   "version":"1.4.12",
+   "version":"1.5.0",
    "compatibility":{
       "minimum":"12",
-      "verified":"12.343"
+      "verified":"13"
    },
    "relationships":{
       "systems":[
