@@ -1074,7 +1074,7 @@
   "CoC7.Settings.DholeUpload.Directory.Name": "Mapp för uppladdning av Dhole's House-bilder",
   "CoC7.Settings.DholeUpload.Directory.Hint": "Sökväg till The Dhole's House-avatarer, i relation till Foundry/Data-katalogen.",
   "CoC7.Settings.WorldEra.Name": "Tidsepok för spelvärlden",
-  "CoC7.Settings.WorldEra.Hint": "Färdigheter kan variera något mellan olika eror. Vänligen välj spelvärldens tidsepok, så att sökningar efter färdigheter hittar de rätta för den tidepoken.",
+  "CoC7.Settings.WorldEra.Hint": "Färdigheter kan variera något mellan olika tidsepoker. Vänligen välj spelvärldens tidsepok, så att sökningar efter färdigheter hittar de rätta för den epoken.",
   "CoC7.Settings.ShowWorldEra.Name": "Visa spelvärldens tidsepok i spelarlistan",
   "CoC7.Settings.ShowWorldEra.Hint": "",
 
